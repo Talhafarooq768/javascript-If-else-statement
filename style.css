@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header,
+footer {
+    background-color: #131b83 !important;
+
+}
+
+body {
+    background-color: rgb(70, 255, 113)!important;
+}
