@@ -80,7 +80,7 @@ document.getElementById("agewait").onclick = function () {
 }
 document.getElementById("nested").onclick = function () {
     let userName = prompt("Enter your userName")
-    if (userName === "talha768") {
+    if (userName === "talha") {
         let password = prompt("Enter Your password")
         if (password === "talha") {
             document.getElementById("output").innerHTML = "You are successfully logged in"
